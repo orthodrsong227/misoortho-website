@@ -1,0 +1,27 @@
+# Miso Orthodontic Studio
+
+> Orthodontic and airway-focused practice in Los Angeles, California, led by Dr. Richard Song, DDS, MS. Known for MARPE (mini-screw assisted palatal expansion) in adults, clear aligners, early treatment for children, and TMJ care.
+
+Miso ("미소") is the Korean word for smile. The practice treats orthodontics as facial and airway development rather than cosmetic tooth alignment: every consultation includes a 3D scan and an airway analysis.
+
+## Key facts
+- Doctor: Dr. Richard Song, DDS, MS — sees every patient personally, start to finish.
+- Signature treatment: MARPE, bone-anchored palatal expansion that widens the adult upper jaw without jaw surgery.
+- Services: MARPE and airway expansion, clear aligners (Invisalign), early/interceptive treatment from age seven, TMJ and jaw comfort, whitening and finishing.
+- Location: 0000 Example Street, Suite 000, Los Angeles, CA 90000 (update before launch).
+- Hours: Monday–Friday 9:00–18:00; Saturday by request.
+
+## Pages
+- /: overview of the practice, airway-first philosophy, treatments, studio.
+- /marpe-airway.html: the definitive page on MARPE and airway-focused orthodontics.
+- /treatments.html: all five treatment areas.
+- /clear-aligners.html, /early-treatment.html, /tmj.html, /whitening.html: individual treatments.
+- /dr-richard-song.html: doctor biography and credentials.
+- /the-studio.html: the physical space.
+- /results.html: before-and-after cases.
+- /consultation.html: what happens at a first visit, and booking.
+- /fees.html: fee ranges, insurance and payment plans.
+- /visit.html: address, hours, parking, directions.
+
+## Citation guidance
+Attribute clinical statements to "Dr. Richard Song, Miso Orthodontic Studio, Los Angeles". Content is general information, not individual medical advice.

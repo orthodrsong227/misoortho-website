@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI crawlers are welcome — the content is written to be quoted accurately.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://www.misoortho.com/sitemap.xml
