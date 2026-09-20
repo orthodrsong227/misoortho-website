@@ -10,9 +10,10 @@ const NAV = [
 ];
 const BIZ = {
   name: 'Miso Orthodontic Studio',
-  street: '0000 Example Street, Suite 000',
-  city: 'Los Angeles', region: 'CA', zip: '90000',
-  phone: '+1-000-000-0000', phoneDisplay: '(000) 000-0000',
+  street: '175 Newark Avenue, Suite 3A-1',
+  city: 'Jersey City', region: 'NJ', zip: '07310',
+  phone: '+1-201-377-3757', phoneDisplay: '(201) 377-3757',
+  fax: '+1-201-377-3938',
   email: 'hello@misoortho.com',
   origin: 'https://www.misoortho.com'
 };
