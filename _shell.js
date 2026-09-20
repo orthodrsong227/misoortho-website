@@ -11,7 +11,7 @@ const NAV = [
 const BIZ = {
   name: 'Miso Orthodontic Studio',
   street: '175 Newark Avenue, Suite 3A-1',
-  city: 'Jersey City', region: 'NJ', zip: '07310',
+  city: 'Jersey City', region: 'NJ', zip: '07302',
   phone: '+1-201-377-3757', phoneDisplay: '(201) 377-3757',
   fax: '+1-201-377-3938',
   email: 'hello@misoortho.com',
